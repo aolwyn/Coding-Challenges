@@ -1,4 +1,3 @@
-And to get the ball rolling, here's one I've got:
 
 **Morse Dots**
 
